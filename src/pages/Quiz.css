@@ -1,0 +1,14 @@
+.quiz_question{
+    background-color: rgb(29, 217, 217);
+    border-radius: 4px;
+  font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
